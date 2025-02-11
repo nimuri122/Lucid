@@ -10,3 +10,4 @@ if youre gonna use the mac version i cant pay 100€ a month to sign and notariz
  5. click open anyway
  6. and put your password*
  7. thats it
+DOWNLOAD USING RELEASES RUNNING THE SOURCE CODE WILL NOT WORK, because it doesnot include the assets
