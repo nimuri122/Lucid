@@ -1,6 +1,6 @@
 Hi, This is a game named Lucid
 
-Im gonna provide a Mac package and a windows executable.¨
+Im gonna provide a Mac package and a windows executable soon when i learn how to create effective EXE's
 
 if youre gonna use the mac version i cant pay 100€ a month to sign and notarize my app so you just have to:
  1. run the app
